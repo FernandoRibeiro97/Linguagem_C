@@ -6,5 +6,5 @@ main(){
 	
 	printf("Utilizando aspas dentro de uma string\n");
 	printf("O sol está \"LINDO\" hoje!\n");
-	printf("\7");
+	printf("\7"); /*Utiliza o comando para gerar um som*/
 }
